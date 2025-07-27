@@ -11,4 +11,6 @@ Aqui se encuentran unas listas de algunas funciones HTML
 - footer
 
 #Hecho en Mexico por Rafael Montoya. 
+Puedes ver la pagina aqui
+https://rafaelmty.github.io/DOS/
 https://github.com/RafaelMty
